@@ -1,0 +1,14 @@
+C:\novosprojetos\MyFinance\ASPNETCORE\bin\Debug\netcoreapp2.2\ASPNETCORE.deps.json
+C:\novosprojetos\MyFinance\ASPNETCORE\bin\Debug\netcoreapp2.2\ASPNETCORE.runtimeconfig.json
+C:\novosprojetos\MyFinance\ASPNETCORE\bin\Debug\netcoreapp2.2\ASPNETCORE.runtimeconfig.dev.json
+C:\novosprojetos\MyFinance\ASPNETCORE\bin\Debug\netcoreapp2.2\ASPNETCORE.dll
+C:\novosprojetos\MyFinance\ASPNETCORE\bin\Debug\netcoreapp2.2\ASPNETCORE.pdb
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.csprojAssemblyReference.cache
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.csproj.CoreCompileInputs.cache
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.RazorAssemblyInfo.cache
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.RazorAssemblyInfo.cs
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.AssemblyInfoInputs.cache
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.AssemblyInfo.cs
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.RazorTargetAssemblyInfo.cache
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.dll
+C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCORE.pdb
