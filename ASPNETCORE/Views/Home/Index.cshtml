@@ -1,7 +1,22 @@
-﻿@using ASPNETCOREMVC.Models;
+﻿@model   HomeModel;
 
 <h1>Meu primeiro Projeto ASP.NET CORE MVC</h1>
 
-@{
-    foreach(var item in(list<HomeModel>) Vi
-}
+<table border="1">
+    <tr>
+        <td>id </td>
+        <td>Nome</td>
+    </tr>
+
+
+    @{
+        foreach (var item in (List<HomeModel>)ViewBag.Lista)
+        {
+            <tr>
+                <td>@item.Id.ToString()</td>
+                <td>@item.Nome.ToString()</td>
+            </tr>
+        }
+    }
+
+</table>
