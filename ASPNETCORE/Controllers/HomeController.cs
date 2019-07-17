@@ -9,9 +9,7 @@ namespace ASPNETCOREMVC.Controllers
 {
     public class HomeController : Controller
     {
-        [HttpPost]
-        [HttpGet]
-        public IActionResult Index(HomeModel formulario)
+        public IActionResult Index()
         {
             CarregarListaDeDados();
             return View();

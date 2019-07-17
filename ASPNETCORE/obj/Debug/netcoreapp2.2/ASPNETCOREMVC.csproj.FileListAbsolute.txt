@@ -20,5 +20,4 @@ C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\Razor\Views\Home\I
 C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCOREMVC.RazorTargetAssemblyInfo.cs
 C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCOREMVC.Views.pdb
 C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCOREMVC.csproj.CopyComplete
-C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\ASPNETCOREMVC.csprojAssemblyReference.cache
 C:\novosprojetos\MyFinance\ASPNETCORE\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
